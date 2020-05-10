@@ -7,7 +7,7 @@ const Header = () => {
         <div className = "header">
            <div className = "logo">          
                 <img src={logo} alt=""/>
-                <h1 className= "header-name">HAS Salary App</h1>
+                <h1 className= "header-name">HAS Salary Management System</h1>
             </div>
                 <nav>
                     <a href="/sheet">Salary Sheet</a>
