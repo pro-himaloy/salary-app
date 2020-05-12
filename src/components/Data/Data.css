@@ -1,0 +1,29 @@
+.employee{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin: 5px;
+    padding: 5px;
+}
+.pay-button{
+    background-color: rgb(224, 106, 38);
+    color: white;
+    width: 150px;
+    height: 30px;
+    border-radius: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    border: 1px solid rgb(148, 51, 36);
+    cursor: pointer;
+}
+.photo{
+    height: 230px;
+    width: 200px;
+    border: 3px solid burlywood;
+    border-radius: 10px;
+}
+.info-container{
+    margin-left: 15px;
+}
+.name{
+    color: tomato;
+}
